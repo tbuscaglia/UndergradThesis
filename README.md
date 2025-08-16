@@ -1,1 +1,6 @@
-# Thesis
+# Abstract
+
+<div align="justify">
+This thesis examines whether the sustained visibility of Iñaki Williams, the first Black player to become a central figure at Athletic Club de Bilbao, has influenced racial attitudes in the Basque Country. Building on the Parasocial Contact Hypothesis, which posits that mediated exposure to minority figures can reduce prejudice, we employ both traditional crime data and novel social media metrics to assess changes in discrimination following Williams’s rise to prominence in early 2016. Using a Difference-in-Differences framework and a Synthetic Control Method, we document a 32–34% reduction in monthly hate crimes and a 65% drop in annual hate-crime counts in the Basque Country relative to appropriate counterfactuals. Complementing these “hard” outcomes, we collect and classify over 2.4 million tweets using a state-of-the-art Spanish-language hate-speech model. Our findings reveal consistent post-2016 declines in hateful speech (–1.7%), aggression (–2.2%), and targeted insults (–1.4%) among Athletic supporters compared to synthetic controls. These results suggest that Williams’s symbolic role disrupted entrenched narratives of ethnic exclusivity and catalyzed a modest recalibration of local norms around race and belonging. The thesis contributes to a growing literature on the social impact of minority representation in elite sports and highlights the value of combining official statistics with high-frequency online data to trace shifts in public sentiment.
+
+</div>
